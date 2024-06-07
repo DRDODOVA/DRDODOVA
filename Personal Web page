@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdelrahman Attia - Quality Assurance Specialist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em 0;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            margin: 1em 0;
+        }
+        nav a {
+            margin: 0 1em;
+            text-decoration: none;
+            color: #333;
+        }
+        section {
+            padding: 2em;
+            background-color: #fff;
+            margin: 1em 0;
+        }
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Abdelrahman Attia</h1>
+        <p>Senior Quality Assurance GMP Operations Specialist</p>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#experience">Experience</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Senior Quality Assurance Certified HACCP Manager and Lead Auditor with more than 15 years of extensive quality assurance and quality control management experience in Pharmaceutical, Biotechnology, and food and beverage manufacturing. Expert in microbial analysis, environmental monitoring, and ensuring compliance with cGMP, HACCP, and ISO standards.</p>
+    </section>
+    <section id="experience">
+        <h2>Experience</h2>
+        <h3>Sanofi mRNA CEW (Jan 2024 - Present)</h3>
+        <p>Senior Quality Assurance Specialist responsible for lot release Quality Review, compliance with specifications and regulations, and maintaining quality management systems.</p>
+        <h3>Vertex Pharmaceuticals (Apr 2023 - Nov 2023)</h3>
+        <p>QA GMP Operations Senior Specialist providing quality oversight and support for Cell and Gene Therapy operations, batch disposition, and compliance guidance.</p>
+        <h3>PharmaCann Pharma (Oct 2020 - Jan 2023)</h3>
+        <p>Senior QA Analyst monitoring processes, managing site’s Quality Management System (QMS), and coordinating release testing.</p>
+        <!-- Additional experience entries can be added here -->
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:vet_abdulrahman@hotmail.com">vet_abdulrahman@hotmail.com</a></p>
+        <p>Phone: 774-417-7309</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Abdelrahman Attia</p>
+    </footer>
+</body>
+</html>
